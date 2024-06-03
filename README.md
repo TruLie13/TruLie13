@@ -14,23 +14,6 @@
 - 🤔 I’m looking for help with <b>Model Training</b><br>
 - 🥅 Upcoming Goals: <b>Contribute to open source and learn DSA & Development</b> <br>
 
-### 🕵 Social Media Handles!<br>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/bhanupriya086/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/.bhanupriya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Bhanupriya25" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/20812086/bhanu-priya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
-<br>
 
 ### Languages: 
 <div align="left">
