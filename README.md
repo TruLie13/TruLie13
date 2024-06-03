@@ -1,29 +1,27 @@
 
 
-# Hi ,I am Jonathan Zayan! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hi, I am Jonathan Zayan! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
 ![](https://komarev.com/ghpvc/?username=TruLie13&color=blue)<br>
-### A passionate and enthusiast programmer<br>
+### Product-minded Software Engineer<br>
 <div align="center">
   <img height="200" src="https://yt3.ggpht.com/aZwOyRoTvmtZsAVxTiSc48ZUofoba60FiEMq9dHp0d4Nv2Do-pcZ6SOx354XPr7KXZfbo6DACgcaZQ=s600-c-fcrop64=1,00000000ffffffff-nd-v1" width= "350" align=right />
 </div>
-- 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
-- 🏫 I’m currently learning <b>Data Structures And MERN Stack Development</b> <br>
-- 🙌 I’m looking to collaborate on <b>Web Projects</b> <br>
-- 🤔 I’m looking for help with <b>Model Training</b><br>
-- 🥅 Upcoming Goals: <b>Contribute to open source and learn DSA & Development</b> <br>
+- 🏫 I’m currently learning <b>Dynamic Programming, Greedy Algorithms</b> @ University of Colorado Boulder <br>
+- 🙌 I’m looking to collaborate on <b>Web Apps</b> <br>
+- 🥅 Upcoming Goals: <b>Build a DIGITAL EMPIRE!</b> <br>
 
 
 ### Languages: 
 <div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
   <img width="12" />
