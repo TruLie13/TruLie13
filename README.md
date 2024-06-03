@@ -65,9 +65,3 @@
   <img src="https://github-profile-trophy.vercel.app?username=TruLie13&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TruLie13&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-
-
-### Snake-Eating My Contribution Graph:🐍📈
-
-<img src="https://raw.githubusercontent.com/TruLie13/TruLie13/output/snake.svg" alt="Snake animation" />
