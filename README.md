@@ -6,9 +6,10 @@
 ![](https://komarev.com/ghpvc/?username=TruLie13&color=blue)<br>
 ### Product-minded Software Engineer<br>
 <div align="center">
-  <img height="200" src="https://yt3.ggpht.com/aZwOyRoTvmtZsAVxTiSc48ZUofoba60FiEMq9dHp0d4Nv2Do-pcZ6SOx354XPr7KXZfbo6DACgcaZQ=s600-c-fcrop64=1,00000000ffffffff-nd-v1" width= "350" align=right />
+  <img height="200" src="=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dmdGxrdDR2YXF2dzl3d3hjdnN1a3F1aG5kMXFtbjN1b3UxbXYxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width= "350" align=right />
 </div>
 - 🏫 I’m currently learning <b>Dynamic Programming, Greedy Algorithms</b> @ University of Colorado Boulder <br>
+- ⌨️⌨️ Also learning GO Lang (Fundamentals, Concurrency, and Channels)
 - 🙌 I’m looking to collaborate on <b>Web Apps</b> <br>
 - 🥅 Upcoming Goals: <b>Build a DIGITAL EMPIRE!</b> <br>
 
