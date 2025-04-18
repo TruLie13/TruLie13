@@ -7,22 +7,31 @@
 ### Product-minded Software Engineer<br>
 
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dmdGxrdDR2YXF2dzl3d3hjdnN1a3F1aG5kMXFtbjN1b3UxbXYxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="350" align="right" />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMzcGJxNDBlYWJmZ3J5cjRnb3RnN2R2MDM5cDYzM2lleDd1b3U4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QzFd3C0Ndpeso/giphy.gif" width="350" align="right" />
 </div>
 
 <ul>
   <li>
-    🐉 <strong>PAY THE DRAGON!</strong> build healthy habits 
+    🛠️ <strong>JSType</strong> - CLI JS Type Checker 
+    [
+    <a href="https://www.npmjs.com/package/jstype-cli" target="_blank">NPM Site </a>
+    ]
+  </li>
+  <li>
+    📝 <strong>TLDevR</strong> - Blog Platform using Next.js
+    [
+    <a href="https://www.tldevr.com/" target="_blank">Live Site </a>
+    ]
+  </li>
+  <li>
+    🐉 <strong>PAY THE DRAGON!</strong> -  build healthy habits 
     [
     <a href="https://apps.apple.com/us/app/pay-the-dragon/id6717574137" target="_blank">iOS: App Store</a> | 
     <a href="https://play.google.com/store/apps/details?id=com.pique.dragon" target="_blank">Android: Play Store</a>
     ]
   </li>
   <li>
-   🏫 I’m currently learning <b>Dynamic Programming, Greedy Algorithms</b> @ University of Colorado Boulder
-  </li>
-  <li>
-   🙌 I’m looking to collaborate on <b>Web Apps</b> <br>
+   🏫 <b>Masters of Science in Computer Science, Track: AI and ML</b> @ Western Governors University (expected grad date: 12/2026)
   </li>
   <li>
     🥅 Upcoming Goals: <b>Build a DIGITAL EMPIRE!</b> <br>
