@@ -14,20 +14,20 @@
     <li>
     🔋 <strong>Battery Performance</strong> - Analyzes UL Reseach battery data
     [
-    <a href="https://ul-battery-performance-project.web.app/" target="_blank">Live Site </a> | 
+    <a href="https://ul-battery-performance-project.web.app/" target="_blank">Live Site</a> | 
     <a href="https://www.tldevr.com/blog/general/battery-performance-dashboard-data-to-deployment" target="_blank">Blog Article </a>
     ]
   </li>
   <li>
     🛠️ <strong>JSType</strong> - CLI JS Type Checker 
     [
-    <a href="https://www.npmjs.com/package/jstype-cli" target="_blank">NPM Site </a>
+    <a href="https://www.npmjs.com/package/jstype-cli" target="_blank">NPM Site</a>
     ]
   </li>
   <li>
     📝 <strong>TLDevR</strong> - Blog Platform using Next.js
     [
-    <a href="https://www.tldevr.com/" target="_blank">Live Site </a>
+    <a href="https://www.tldevr.com/" target="_blank">Live Site</a>
     ]
   </li>
   <li>
