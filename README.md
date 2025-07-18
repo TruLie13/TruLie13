@@ -1,16 +1,23 @@
 
 
-# Hi, I am Jonathan Zayan! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hi, I am Jonathan Zayan!
 <br>
 
 ![](https://komarev.com/ghpvc/?username=TruLie13&color=blue)<br>
 ### Product-minded Software Engineer<br>
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMzcGJxNDBlYWJmZ3J5cjRnb3RnN2R2MDM5cDYzM2lleDd1b3U4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QzFd3C0Ndpeso/giphy.gif" width="350" align="right" />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk1aWVhemV4cjFta3RkdmE4dGF3Zm90dmZzd2J2NTNxbGpwdmQzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="350" align="right" />
 </div>
 
 <ul>
+    <li>
+    🔋 <strong>Battery Performance</strong> - Analyzes UL Reseach battery data
+    [
+    <a href="https://ul-battery-performance-project.web.app/" target="_blank">Live Site </a>
+    <a href="https://www.tldevr.com/blog/general/battery-performance-dashboard-data-to-deployment" target="_blank">Blog Article </a>
+    ]
+  </li>
   <li>
     🛠️ <strong>JSType</strong> - CLI JS Type Checker 
     [
@@ -30,11 +37,13 @@
     <a href="https://play.google.com/store/apps/details?id=com.pique.dragon" target="_blank">Android: Play Store</a>
     ]
   </li>
+  <br/>
   <li>
-   🏫 <b>Masters of Science in Computer Science, Track: AI and ML</b> @ Western Governors University (expected grad date: 12/2026)
+   🏫 <b>Masters of Science in Computer Science, Track: AI and ML</b> <br/> @ Western Governors University (expected grad date: 12/2026)
   </li>
+  <br/>
   <li>
-    🥅 Upcoming Goals: <b>Build a DIGITAL EMPIRE!</b> <br>
+    💪 Upcoming Goals: <b>Build a DIGITAL EMPIRE!</b> <br>
   </li>
 </ul>
 
