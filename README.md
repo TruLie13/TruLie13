@@ -1,9 +1,9 @@
-
-
 # Hi, I am Jonathan Zayan!
 <br>
 
 ![](https://komarev.com/ghpvc/?username=TruLie13&color=blue)<br>
+
+
 ### Product-minded Software Engineer<br>
 
 <div align="center">
@@ -11,8 +11,12 @@
 </div>
 
 <ul>
-    <li>
-    🔋 <strong>Battery Performance</strong> - Analyzes UL Reseach battery data
+  <li>
+    🌵 <strong>El Paso Municipal AI</strong> - Agentic RAG Assistant for City Codes 
+    [ <a href="https://github.com/TruLie13" target="_blank">Repo</a> ]
+  </li>
+  <li>
+    🔋 <strong>Battery Performance</strong> - Analyzes UL Research battery data
     [
     <a href="https://ul-battery-performance-project.web.app/" target="_blank">Live Site</a> | 
     <a href="https://www.tldevr.com/blog/general/battery-performance-dashboard-data-to-deployment" target="_blank">Blog Article </a>
@@ -30,16 +34,9 @@
     <a href="https://www.tldevr.com/" target="_blank">Live Site</a>
     ]
   </li>
-  <li>
-    🐉 <strong>PAY THE DRAGON!</strong> -  build healthy habits 
-    [
-    <a href="https://apps.apple.com/us/app/pay-the-dragon/id6717574137" target="_blank">iOS: App Store</a> | 
-    <a href="https://play.google.com/store/apps/details?id=com.pique.dragon" target="_blank">Android: Play Store</a>
-    ]
-  </li>
   <br/>
   <li>
-   🏫 <b>Masters of Science in Computer Science, Track: AI and ML</b> <br/> @ Western Governors University (expected grad date: 12/2026)
+   🏫 <b>Masters of Science in Computer Science, Track: AI and ML</b> <br/> @ Western Governors University (expected grad: 04/2026)
   </li>
   <br/>
   <li>
@@ -49,50 +46,53 @@
 
 
 ### Skills: 
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/react-F7DF1E?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Capacitor-F7DF1E?logo=capacitor&logoColor=black&style=for-the-badge" height="35" alt="capacitor logo"  />
-  <img width="12" />
-  <br></br>
-  <img src="https://img.shields.io/badge/typescript-3776AB?logo=typescript&logoColor=black&style=for-the-badge" height="35" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SASS-1572B6?logo=sass&logoColor=white&style=for-the-badge" height="35" alt="sass logo"  />
-  <img width="12" />
-  <br></br>
-  <img src="https://img.shields.io/badge/node.js-1572B6?logo=nodedotjs&logoColor=black&style=for-the-badge" height="35" alt="node.js logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/mongo%20db-1572B6?logo=mongodb&logoColor=black&style=for-the-badge" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/express-1572B6?logo=express&logoColor=white&style=for-the-badge" height="35" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" alt="postgresql logo"  />
-  <img width="12" />
-  <br></br>
-  <img src="https://img.shields.io/badge/firebase-3776AB?logo=firebase&logoColor=black&style=for-the-badge" height="35" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="35" alt="googlecloud logo"  />
-  <img width="12" />
 
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="35" alt="typescript"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="35" alt="nextjs"  />
+  <img src="https://img.shields.io/badge/Design_Systems-FF69B4?style=for-the-badge" height="35" alt="design systems" />
+  <br></br>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python"  />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" alt="node"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" alt="postgresql"  />
+  <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge" height="35" alt="microservices" />
+  <img src="https://img.shields.io/badge/DDD-8E44AD?style=for-the-badge" height="35" alt="domain driven design" />
+  <br></br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" height="35" alt="aws"  />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker"  />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="35" alt="actions"  />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="35" alt="jest"  />
+  <img src="https://img.shields.io/badge/TDD-009688?style=for-the-badge" height="35" alt="tdd" />
+  <br></br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" height="35" alt="langchain"  />
+  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" height="35" alt="rag" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white&style=for-the-badge" height="35" alt="openai" />
 </div>
 <br>
 
-### 📈 Github Stats:
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TruLie13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  /><br><br>
-</div>
+### 🚀 Engineering Impact & Scale
+
+| Initiative | Technical Milestone | Core Stack |
+| :--- | :--- | :--- |
+| **Caesars Sportsbook** | Managed **$1M+ daily volume** with secure 2FA | React, AWS, Microservices |
+| **El Paso Municipal AI** | Indexed **2,900+ pages** for Agentic RAG retrieval | Python, LangChain, Gemini |
+| **Battery Dashboard** | Visualized **1.5M data points** from scientific sets | Django, Postgres, React |
+| **JSType CLI** | Published **Zero-Config** type checker to NPM | Node.js, Babel, Open Source |
+
+<br>
+
+### 🛠️ Currently Focused On:
+* 🎓 **MSCS Research:** Advanced AI/ML workflows and applied algorithms.
+* 🏗️ **Architectural Modularity:** Designing "API-First" systems that scale.
+* 🧪 **Software Quality:** Hardening internal tools through TDD and E2E testing.
+
+<br>
+
+### 🎨 Design & Engineering Collaboration
+I specialize in bridging the gap between high-fidelity design and performant code. I am a strong advocate for:
+* **Design Systems:** Building reusable, themeable component libraries that maintain brand consistency.
+* **Accessibility (WCAG):** Ensuring internal tools are inclusive and usable for all users.
+* **Prototyping:** Rapidly turning 3D and UI concepts into functional, testable web interfaces.
