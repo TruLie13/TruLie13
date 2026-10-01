@@ -36,7 +36,7 @@
   </li>
   <br/>
   <li>
-   🏫 <b>Masters of Science in Computer Science, Track: AI and ML</b> <br/> @ Western Governors University (expected grad: 04/2026)
+   🏫 <b>Masters of Science in Computer Science, Track: AI and ML</b> <br/> @ Western Governors University (expected grad: 01/2027)
   </li>
   <br/>
   <li>
