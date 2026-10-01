@@ -13,7 +13,7 @@
 <ul>
   <li>
     🌵 <strong>El Paso Municipal AI</strong> - Agentic RAG Assistant for City Codes 
-    [ <a href="https://github.com/TruLie13" target="_blank">Repo</a> ]
+    [ <a href="https://github.com/TruLie13/El-Paso-AI" target="_blank">Repo</a> ]
   </li>
   <li>
     🔋 <strong>Battery Performance</strong> - Analyzes UL Research battery data
